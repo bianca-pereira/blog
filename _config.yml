@@ -1,10 +1,10 @@
 title: Bianca Pereira
 description: Website
 
-url: http://bianca-pereira.github.io
-baseurl: "blog"
+url: http://bianca-pereira.github.io/blog
+baseurl: ""
 paginate_path: "page:num/"
-permalink: :title/
+permalink: blog/:title/
 
 markdown: redcarpet
 highlighter: pygments
