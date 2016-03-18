@@ -3,7 +3,7 @@ description: Blog
 
 url: http://bianca-pereira.github.io/test
 baseurl: "http://bianca-pereira.github.io/test"
-paginate_path: "test/page:num/"
+paginate_path: "page:num/"
 permalink: :title/
 
 markdown: redcarpet
