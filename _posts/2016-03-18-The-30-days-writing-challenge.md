@@ -2,7 +2,7 @@
 title: The 30 days writing challenge
 layout: post
 author: Bianca Pereira
-permalink: /the-30-days-writing-challenge/
+permalink: test/the-30-days-writing-challenge/
 source-id: 1WYdticTxGXA6Pw6RwZ0tqU07lHsROHBdqtiPWsieZIA
 published: true
 ---
