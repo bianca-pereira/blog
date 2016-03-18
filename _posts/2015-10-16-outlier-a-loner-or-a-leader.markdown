@@ -4,6 +4,7 @@ title:  "Outlier, a loner or a leader?"
 comments: true
 category: [Life]
 tags: [herd, complexity, outlier]
+permalink: test/outlier-a-loner-or-a-leader/
 date:   2015-10-18
 ---
 
