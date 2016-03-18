@@ -1,0 +1,29 @@
+title: Bianca Pereira
+description: Website
+
+url: http://bianca-pereira.github.io/blog
+baseurl: ""
+paginate_path: "page:num/"
+permalink: :title/
+
+markdown: redcarpet
+highlighter: pygments
+paginate: 5
+
+navigation:
+ - title: Home
+   url: /index.html
+ - title: About
+   url: /about.html
+ - title: Publications
+   url: /publications.html
+ - title: Contact
+   url: /contact.html
+
+social:
+   github: bianca-pereira
+   twitter: bianca_oli_per
+   facebook: bianca.oli.pereira
+   email: bianca@biancapereira.me
+
+#google_analytics: "UA-66654253-1"
