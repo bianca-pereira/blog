@@ -2,7 +2,7 @@ title: Bianca Pereira
 description: Blog
 
 url: http://bianca-pereira.github.io
-baseurl: "http://bianca-pereira.github.io/test"
+baseurl: "http://bianca-pereira.github.io/blog"
 paginate_path: "page:num/"
 permalink: :title/
 
@@ -13,7 +13,7 @@ navigation:
  - title: Home
    url: /index.html
  - title: Blog
-   url: /test
+   url: /blog
  - title: Publications
    url: /publications.html
  - title: Contact
