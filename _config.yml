@@ -1,7 +1,7 @@
 title: Bianca Pereira
 description: Website
 
-url: http://bianca-pereira.github.io/blog
+url: http://bianca-pereira.github.io
 baseurl: "blog"
 paginate_path: "page:num/"
 permalink: :title/
