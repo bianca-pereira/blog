@@ -3,6 +3,9 @@ title: The 30 days writing challenge
 layout: post
 author: Bianca Pereira
 permalink: test/the-30-days-writing-challenge/
+comments: true
+category: [Writing]
+date:   2016-03-18
 source-id: 1WYdticTxGXA6Pw6RwZ0tqU07lHsROHBdqtiPWsieZIA
 published: true
 ---
