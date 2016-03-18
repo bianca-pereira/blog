@@ -6,8 +6,7 @@ baseurl: "http://bianca-pereira.github.io/test"
 paginate_path: "page:num/"
 permalink: :title/
 
-markdown: redcarpet
-highlighter: pygments
+markdown: kramdown
 paginate: 5
 
 navigation:
