@@ -4,7 +4,6 @@ title:  "The Herd Behaviour and the Comfort Zone"
 comments: true
 category: [Life]
 tags: [herd, complexity]
-permalink: test/2015-10-10-the-herd-behaviour-and-the-comfort-zone/
 date:   2015-10-10
 ---
 

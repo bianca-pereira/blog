@@ -4,7 +4,6 @@ title:  "Identity Crisis"
 comments: true
 category: [Identity Resolution, Identity Uncertainty]
 date:   2015-08-10
-permalink: test/identity-crisis/
 ---
 
 <p class="intro"><span class="dropcap">I</span> am who I am, but can I prove it?</p>
