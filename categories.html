@@ -1,0 +1,17 @@
+---
+layout: default
+title: Categories
+---
+	<section id="categories">
+		<h2><a href="{{ site.baseurl }}{{ page.url }}">{{ page.title }}</a></h2>
+		<ul class="tag-list clearfix">
+{% include libs/list_categories %}
+		</ul>
+{% for category in site.categories %}
+		<h3 id="ref-{{ category[0] | join | cgi_escape | remove:'%' }}">{{ category[0] | join:' - ' | escape }}</h3>
+		<ul>
+	{% assign list_pages = category[1] %}
+	{% include libs/list_pages %}
+		</ul>
+{% endfor %}
+	</section>
