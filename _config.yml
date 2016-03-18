@@ -1,9 +1,9 @@
 title: Bianca Pereira
-description: Website
+description: Blog
 
 url: http://bianca-pereira.github.io/test
 baseurl: ""
-paginate_path: "page:num/"
+paginate_path: "test/page:num/"
 permalink: test/:title/
 
 markdown: redcarpet
